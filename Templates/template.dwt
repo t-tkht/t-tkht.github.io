@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Template of Shimoyama Lab.</title>
+<title>Template of t-tkht's WEB site</title>
 <!-- TemplateEndEditable -->
 <link rel="stylesheet" type="text/css" href="../Template.css" />
 <link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
@@ -18,76 +18,76 @@
 		<div class="bannerArea">
 			<div class="container"> 
 
-				<div class="bannernav"><!-- TemplateBeginEditable name="language" --><a href="http://www.leopard.t.u-tokyo.ac.jp/index-j.html" >Japanese</a> | <a href="http://www.leopard.t.u-tokyo.ac.jp/index.html" >English</a><!-- TemplateEndEditable --></div>
+				<div class="bannernav"><!-- TemplateBeginEditable name="language" --><a href="http://t-tkht.github.io/index-j.html" >Japanese</a> | <a href="http://t-tkht.github.io/index.html" >English</a><!-- TemplateEndEditable --></div>
 		<!-- TemplateBeginIf cond="_document['default']" -->
-				<div class="toplogo"><a href="http://www.leopard.t.u-tokyo.ac.jp/index.html">Shimoyama-Matsumoto Lab.</a></div>
+				<div class="toplogo"><a href="http://t-tkht.github.io/index.html">Tomoyuki Takahata</a></div>
                 Department of Mechano-Informatics, Graduate School of Information Science and Technology, the University of Tokyo
 			</div>
 		</div>
         <div class="navigationArea">
           <div class="container">
             <ul id="MenuBarLeft" class="MenuBarHorizontal">
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/intro.html">Introduction</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-index.html" class="MenuBarItemSubmenu">Research</a>
+              <li><a href="http://t-tkht.github.io/intro.html">Introduction</a></li>
+              <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a>
+                <!--<ul>
+                  <li><a href="http://t-tkht.github.io/robotcore/robotcore.html">MEMS Taste Sensor</a></li>
+                  <li><a href="http://t-tkht.github.io/tokusui/">特別推進</a></li>
+                  <li><a href="http://t-tkht.github.io/research-piezo.html">Piezoresistor</a></li>
+                  <li><a href="http://t-tkht.github.io/research-plasmon.html">Plasmonics</a></li>
+                  <li><a href="http://t-tkht.github.io/research-pold.html">PoLD</a></li>
+                  <li><a href="http://t-tkht.github.io/research.html">All researches</a></li>
+                </ul>-->
+              </li>
+              <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
                 <ul>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/robotcore/robotcore.html">MEMS Taste Sensor</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/tokusui/">特別推進</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-piezo.html">Piezoresistor</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-plasmon.html">Plasmonics</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-pold.html">PoLD</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research.html">All researches</a></li>
+                  <li><a href="http://t-tkht.github.io/publication-international.html">International Journal</a></li>
+                  <li><a href="http://t-tkht.github.io/publication-japanese.html">Japanese Journal</a></li>
+                  <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
+                  <li><a href="http://t-tkht.github.io/publication-conference.html">Conference Proceedings</a></li>
+                  <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
                 </ul>
               </li>
-              <li><a class="MenuBarItemSubmenu" href="http://www.leopard.t.u-tokyo.ac.jp/publication.html">Publication</a>
-                <ul>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-international.html">International Journal</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-japanese.html">Japanese Journal</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-book.html">Books</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-conference.html">Conference Proceedings</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/instruction.html">Instruction papers (in Japanese)</A></li>
-                </ul>
-              </li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/member.html">Member</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/award.html">Award</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/lecture.html">Lecture</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/access.html">Access</a></li>
+              <!--<li><a href="http://t-tkht.github.io/member.html">Member</a></li>-->
+              <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
+              <!--<li><a href="http://t-tkht.github.io/lecture.html">Lecture</a></li>-->
+              <!--<li><a href="http://t-tkht.github.io/access.html">Access</a></li>-->
             </ul>
           </div>
           <div style="clear:both;"></div>
         </div>
 		<!-- TemplateEndIf -->
 <!-- TemplateBeginIf cond="japanese" -->
-				<div class="toplogo"><a href="http://www.leopard.t.u-tokyo.ac.jp/index.html">Shimoyama-Matsumoto Lab.</a></div>
+				<div class="toplogo"><a href="http://t-tkht.github.io/index.html">Shimoyama-Matsumoto Lab.</a></div>
                 Department of Mechano-Informatics, Graduate School of Information Science and Technology, the University of Tokyo
 			</div>
 		</div>
         <div class="navigationArea">
           <div class="container">
             <ul id="MenuBarLeft" class="MenuBarHorizontal">
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/intro.html">Introduction</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-index.html" class="MenuBarItemSubmenu">Research</a>
+              <!--<li><a href="http://t-tkht.github.io/intro.html">Introduction</a></li>-->
+              <li><a href="http://t-tkht.github.io/research-index.html" class="MenuBarItemSubmenu">Research</a>
                 <ul>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/robotcore/robotcore.html">MEMS Taste Sensor</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/tokusui/">特別推進</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-piezo.html">Piezoresistor</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-plasmon.html">Plasmonics</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research-pold.html">PoLD</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/research.html">All researches</a></li>
+                  <li><a href="http://t-tkht.github.io/robotcore/robotcore.html">MEMS Taste Sensor</a></li>
+                  <li><a href="http://t-tkht.github.io/tokusui/">特別推進</a></li>
+                  <li><a href="http://t-tkht.github.io/research-piezo.html">Piezoresistor</a></li>
+                  <li><a href="http://t-tkht.github.io/research-plasmon.html">Plasmonics</a></li>
+                  <li><a href="http://t-tkht.github.io/research-pold.html">PoLD</a></li>
+                  <li><a href="http://t-tkht.github.io/research.html">All researches</a></li>
                 </ul>
               </li>
-              <li><a class="MenuBarItemSubmenu" href="http://www.leopard.t.u-tokyo.ac.jp/publication.html">Publication</a>
+              <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
                 <ul>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-international.html">International Journal</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-japanese.html">Japanese Journal</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-book.html">Books</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/publication-conference.html">Conference Proceedings</a></li>
-                  <li><a href="http://www.leopard.t.u-tokyo.ac.jp/instruction.html">Instruction papers (in Japanese)</A></li>
+                  <li><a href="http://t-tkht.github.io/publication-international.html">International Journal</a></li>
+                  <li><a href="http://t-tkht.github.io/publication-japanese.html">Japanese Journal</a></li>
+                  <li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>
+                  <li><a href="http://t-tkht.github.io/publication-conference.html">Conference Proceedings</a></li>
+                  <li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>
                 </ul>
               </li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/member-j.html">Member</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/award.html">Award</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/lecture.html">Lecture</a></li>
-              <li><a href="http://www.leopard.t.u-tokyo.ac.jp/access-j.html">Access</a></li>
+              <li><a href="http://t-tkht.github.io/member-j.html">Member</a></li>
+              <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
+              <li><a href="http://t-tkht.github.io/lecture.html">Lecture</a></li>
+              <li><a href="http://t-tkht.github.io/access-j.html">Access</a></li>
             </ul>
           </div>
           <div style="clear:both;"></div>
