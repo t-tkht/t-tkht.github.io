@@ -35,9 +35,9 @@
           <ul>
             <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
             <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
-            <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
+            <!--<li><a href="http://t-tkht.github.io/publication/book.html">Books</a></li>-->
             <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
-            <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
+            <!--<li><a href="http://t-tkht.github.io/publication/instruction.html">Instruction papers (in Japanese)</A></li>-->
           </ul>
         </li>
         <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
@@ -53,13 +53,13 @@
     <div class="container">
       <ul id="MenuBarLeft" class="MenuBarHorizontal">
         <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a></li>
-        <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
+        <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication/index.html">Publication</a>
           <ul>
             <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
             <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
-            <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
+            <!--<li><a href="http://t-tkht.github.io/publication/book.html">Books</a></li>-->
             <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
-            <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
+            <!--<li><a href="http://t-tkht.github.io/publication/instruction.html">Instruction papers (in Japanese)</A></li>-->
           </ul>
         </li>
         <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
