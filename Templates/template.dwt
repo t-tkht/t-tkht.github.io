@@ -1,93 +1,92 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>Template of t-tkht's WEB site</title>
-<!-- TemplateEndEditable -->
-<link rel="stylesheet" type="text/css" href="../Template.css" />
-<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<!-- TemplateParam name="japanese" type="boolean" value="false" -->
-<!-- TemplateParam name="default" type="boolean" value="true" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Template of t-tkht's WEB site</title>
+  <!-- TemplateEndEditable -->
+  <link rel="stylesheet" type="text/css" href="../Template.css" />
+  <link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  <script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+  <!-- TemplateParam name="japanese" type="boolean" value="false" -->
+  <!-- TemplateParam name="default" type="boolean" value="true" -->
 </head>
 
 <body>
-		<div class="bannerArea">
-			<div class="container"> 
-
-				<div class="bannernav"><!-- TemplateBeginEditable name="language" --><a href="http://t-tkht.github.io/index-j.html" >Japanese</a> | <a href="http://t-tkht.github.io/index.html" >English</a><!-- TemplateEndEditable --></div>
-		<!-- TemplateBeginIf cond="_document['default']" -->
-				<div class="toplogo"><a href="http://t-tkht.github.io/index.html">Tomoyuki Takahata</a></div>
-                Research Center for Advanced Science and Technology, the University of Tokyo
-			</div>
-		</div>
-        <div class="navigationArea">
-          <div class="container">
-            <ul id="MenuBarLeft" class="MenuBarHorizontal">
-              <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a></li>
-              <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
-                <ul>
-                  <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
-                  <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
-                  <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
-                  <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
-                  <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
-                </ul>
-              </li>
-              <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
-            </ul>
-          </div>
-          <div style="clear:both;"></div>
-        </div>
-		<!-- TemplateEndIf --><!-- TemplateBeginIf cond="japanese" -->
-				<div class="toplogo"><a href="http://t-tkht.github.io/index-j.html">Tomoyuki Takahata</a></div>
-                Research Center for Advanced Science and Technology, the University of Tokyo
-			</div>
-		</div>
-        <div class="navigationArea">
-          <div class="container">
-            <ul id="MenuBarLeft" class="MenuBarHorizontal">
-              <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a></li>
-              <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
-                <ul>
-                  <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
-                  <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
-                  <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
-                  <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
-                  <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
-                </ul>
-              </li>
-              <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
-            </ul>
-          </div>
-          <div style="clear:both;"></div>
-        </div>
-	<!-- TemplateEndIf -->
-		<div class="contentArea">
-			<div class="container"> 
-				<div class="contentleft">
-		<!-- TemplateBeginEditable name="content" -->
-
-				<h1>Title</h1>
-				<img class="imageleft" src="sample.jpg" border="0" />
-				<p>Under construction</p>
-		<!-- TemplateEndEditable -->
-				</div>
-			</div>
-			<div style="clear:both;"></div>
-		</div>
-		<div class="footerArea">
-			<div class="container"> 
-				<div class="copyright">
-					&copy; 2012 Shimoyama Lab.
-                </div>		
-			</div>		
-		</div>
-<script type="text/javascript">
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBarLeft", {imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
-        </script>
+  <div class="bannerArea">
+    <div class="container"> 
+      <div class="bannernav">
+        <!-- TemplateBeginEditable name="language" -->
+        <a href="http://t-tkht.github.io/index-j.html">Japanese</a> | <a href="http://t-tkht.github.io/index.html">English</a>
+        <!-- TemplateEndEditable -->
+      </div>
+      <!-- TemplateBeginIf cond="_document['default']" -->
+      <div class="toplogo"><a href="http://t-tkht.github.io/index.html">Tomoyuki Takahata</a></div>
+      Research Center for Advanced Science and Technology, the University of Tokyo
+    </div>
+  </div>
+  <div class="navigationArea">
+    <div class="container">
+      <ul id="MenuBarLeft" class="MenuBarHorizontal">
+        <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a></li>
+        <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication/index.html">Publication</a>
+          <ul>
+            <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
+            <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
+            <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
+            <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
+            <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
+          </ul>
+        </li>
+        <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
+      </ul><!-- TemplateEndIf -->
+      <!-- TemplateBeginIf cond="japanese" -->
+      <div class="toplogo">
+        <a href="http://t-tkht.github.io/index-j.html">Tomoyuki Takahata</a>
+      </div>
+      Research Center for Advanced Science and Technology, the University of Tokyo
+    </div>
+  </div>
+  <div class="navigationArea">
+    <div class="container">
+      <ul id="MenuBarLeft" class="MenuBarHorizontal">
+        <li><a href="http://t-tkht.github.io/index.html" class="MenuBarItemSubmenu">Research</a></li>
+        <li><a class="MenuBarItemSubmenu" href="http://t-tkht.github.io/publication.html">Publication</a>
+          <ul>
+            <li><a href="http://t-tkht.github.io/publication/international.html">International Journal</a></li>
+            <li><a href="http://t-tkht.github.io/publication/japanese.html">Japanese Journal</a></li>
+            <!--<li><a href="http://t-tkht.github.io/publication-book.html">Books</a></li>-->
+            <li><a href="http://t-tkht.github.io/publication/conference.html">Conference Proceedings</a></li>
+            <!--<li><a href="http://t-tkht.github.io/instruction.html">Instruction papers (in Japanese)</A></li>-->
+          </ul>
+        </li>
+        <li><a href="http://t-tkht.github.io/award.html">Award</a></li>
+      </ul><!-- TemplateEndIf -->
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="contentArea">
+    <div class="container"> 
+      <div class="contentleft"><!-- TemplateBeginEditable name="content" -->
+        <h1>Title</h1>
+        <img class="imageleft" src="sample.jpg" border="0" />
+        <p>Under construction</p>
+        <!-- TemplateEndEditable -->  
+      </div>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="footerArea">
+    <div class="container"> 
+      <div class="copyright">
+        &copy; 2021 Tomoyuki Takahata
+      </div>    
+    </div>    
+  </div>
+  <script type="text/javascript">
+    var MenuBar1 = new Spry.Widget.MenuBar("MenuBarLeft", {imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+  </script>
 </body>
 </html>
