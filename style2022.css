@@ -137,22 +137,22 @@ footer.footer {
 	padding: 20px 30px;
 }
 
-.top-research-category h2 {
+.research-category h2 {
 	text-align: center;
 	font-size: 24px;
 	margin-bottom: 20px;
 }
 
-.top-research-category ul {
+.research-category ul {
 	list-style-type: none;
 }
 
-.top-research-category ul li {
+.research-category ul li {
 	text-align: center;
 	padding: 20px 0px;
 }
 
-.top-research-category ul li a {
+.research-category ul li a {
 	text-decoration: none;
 	border: thin black solid;
 	padding: 8px 20px;
@@ -179,7 +179,7 @@ footer.footer {
 		float: left
 	}
 	
-	.top-research-category h2 {
+	.research-category h2 {
 		font-size: 20px;
 		margin-bottom: 30px;
 	}
