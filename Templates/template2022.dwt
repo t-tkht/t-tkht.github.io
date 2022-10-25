@@ -8,7 +8,8 @@
   	<link rel="stylesheet" type="text/css" href="../style2022.css" />
 	<!-- TemplateBeginEditable name="head" -->
 	<!-- TemplateEndEditable -->
-	<!-- TemplateParam name="jp" type="boolean" value="false" -->
+	<!-- TemplateParam name="japanese" type="boolean" value="false" -->
+	<!-- TemplateParam name="default" type="boolean" value="true" -->
 </head>
 
 <body>
@@ -19,13 +20,13 @@
 			<!-- TemplateEndEditable -->
 		</div>
 		<p class="logo">
-			<a @@((jp) ? 'href="index-j.html"' : 'href="index.html"')@@>Tomoyuki Takahata</a>
+			<a href="http://t-tkht.github.io/index.html">Tomoyuki Takahata</a>
 		</p>
 		<nav class="nav">
 			<ul>
-				<li><a @@((jp) ? 'href="research-j.html"' : 'href="research.html"')@@>Research</a></li>
-				<li><a @@((jp) ? 'href="pub-index-j.html"' : 'href="pub-index.html"')@@>Publication</a></li>
-        		<li><a @@((jp) ? 'href="award-j.html"' : 'href="award.html"')@@>Award</a></li>
+				<li><a href="http://t-tkht.github.io/index.html">Research</a></li>
+				<li><a href="http://t-tkht.github.io/publication/index.html">Publication</a></li>
+        		<li><a href="http://t-tkht.github.io/award.html">Award</a></li>
 			</ul>	
 		</nav>
 	</header>
