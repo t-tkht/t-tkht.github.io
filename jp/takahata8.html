@@ -31,14 +31,16 @@
 		<!-- InstanceBeginEditable name="content" -->
         <h1>可視・赤外同軸画像認識</h1>
 
-        <h2>Simultaneous Transparent and Non-Transparent Object Segmentation With Multispectral Scenes</h2>
-        <p class="abst">For an autonomous mobile system such as an autonomous robot that moves throughout a city, semantic segmentation is important. Performing semantic segmentation under diverse conditions, in turn, requires 1) a robust ability to recognize objects in low-visibility environments, such as at night and 2) the ability to recognize objects that transmit visible light, such as glass and acrylic used in doors and windows. To satisfy these requirements, using RGB images and infrared images simultaneously is considered effective. Visibility and infrared transmission characteristics are different for different objects; therefore, merely entering them into the conventional semantic segmentation framework is not applicable. For example, when a pedestrian is present behind a glass, the visible image captures the pedestrian rather than the glass and the infrared image captures the glass. In this research, we propose a new semantic segmentation method having a three-stream structure, focusing on the difference in the transmission characteristics. This method extracts not only valid features for ordinary non-transparent objects but also features effective for the recognition of transparent objects by utilizing differences in objects to be imaged owing to transmission characteristics. Furthermore, we constructed a new dataset called &ldquo;coaxials&rdquo; for the visible and infrared coaxial dataset and demonstrated that we can obtain better segmentation performance compared with the conventional method.</p>
+        <h2>多波長画像を利用した透明物体と非透明物体の両方に対応したセグメンテーション</h2>
+		<img class="abst-image" src="../img/coaxials_example.jpg" alt="Example images in coaxials dataset" />
+        <p class="abst">街中を移動する自律型ロボットのような自律移動システムにおいては、セマンティックセグメンテーションが重要である。様々な条件下でセグメンテーションを行うためには、1）夜間などの低視認性環境下でのロバストな認識能力、2）ドアや窓に用いられるガラスやアクリルなどの可視光を透過する物体の認識能力が必要となる。これらの要件を満たすためには、RGB画像と赤外線画像を同時に使用することが有効であると考えられる。可視光や赤外線の透過特性は物体によって異なるため、単に従来の意味分割の枠組みに当てはめるだけでは適用できない。例えば、ガラスの向こうに歩行者がいる場合、可視画像はガラスではなく歩行者を捉え、赤外線画像はガラスを捉える。本研究では、透過特性の違いに着目し、3つのストリーム構造を持つ新しいセマンティックセグメンテーション手法を提案する。本手法は、透過特性の違いによる撮像対象の違いを利用し、通常の非透過物体に対する有効な特徴量だけでなく、透明物体の認識に有効な特徴量も抽出する。さらに、可視・赤外同軸データセットである「coaxials」を新たに構築し、従来手法と比較して良好なセグメンテーション性能が得られることを実証した。</p>
 
 		<h3>Publications</h3>
         
 		<ol>
 			<li>髙畑智之, 原田達也, &ldquo;可視・長波長赤外同軸カメラを利用したガラス検出,&rdquo; 第40回日本ロボット学会学術講演会 (RSJ2022), 2B1-03, 2022</li>
 			<li>Atsuro Okazawa, Tomoyuki Takahata, and Tatsuya Harada, &ldquo;Simultaneous transparent and non-transparent objects segmentation with multispectral scenes,&rdquo; <em>The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2019)</em>, Macao, China, 4–8 November, pp. 4977–4984, 2019. <strong>[<a href="https://doi.org/10.1109/IROS40897.2019.8968095" target="_blank">Proceedings</a>]</strong></li>
+			<li>Coaxials dataset is available on <a href="https://github.com/mil-tokyo/coaxials">github</a>.</li>
         </ol>
 		<!-- InstanceEndEditable -->
 	</main>
