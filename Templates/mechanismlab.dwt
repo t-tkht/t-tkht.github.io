@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" --><title>Template of Mechanism Lab WEB site</title><!-- TemplateEndEditable -->
+  	<link rel="stylesheet" type="text/css" href="../style2022.css" />
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<header>
+		<p class="logo">
+			<a href="index.html"><strong>東京電機大学 メカニズム研究室</strong></a>
+		</p>
+		<nav class="nav">
+			<ul>
+				<li><a href="research.html">研究内容</a></li>
+				<li><a href="pub-index.html">発表</a></li>
+			</ul>	
+		</nav>
+	</header>
+	<main>
+		<!-- TemplateBeginEditable name="content" -->
+		<div class="row">
+			<img class="face-photo" src="../img/takahata2022.jpg" alt="takahata" />
+			<h3>高畑智之</h3>
+			<p class="affiliation">
+				東京電機大学<br />
+				工学部 先端機械工学科<br />
+				准教授
+			</p>
+		</div>
+
+		<div class="row">
+			<img class="face-photo" src="../img/takahata2022.jpg" alt="takahata" />
+			<h2>Tomoyuki Takahata</h2>
+			<p class="affiliation">Associate Proffessor<br />
+				Department of Advanced Machinery Engineering, <br />
+				School of Engineering, <br />
+				Tokyo Denki University</p>
+		</div>		
+		
+		<div class="row">
+			<div class="top-news">
+				<h2>News</h2>
+				<ul>
+					<li>日本経済新聞の記事について東京電機大学ウェブサイトののニュースで紹介されました。（2023年4月13日）<a href="https://www.dendai.ac.jp/news/20230413-01.html">先端機械工学科 髙畑准教授の研究が日本経済新聞に掲載</a></li>
+					<li>可視・赤外同軸カメラの研究が日本経済新聞に掲載されました。（2023年4月9日）<a href="https://www.nikkei.com/article/DGKKZO70029310Y3A400C2MY1000/">ロボット百景(6) 透明ガラスとの衝突回避</a></li>
+					<li>メカニズム研究室に4年生が2名配属されました。（2023年4月1日）</li>
+					<li>東京電機大学メカニズム研究室が新設されました。（2023年4月1日）</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col red-box">
+				<div class="research-category">
+					<h2>Vision: 可視・赤外カメラ, 同軸画像認識</h2>
+					<ul>
+						<li><a href="takahata3.html">可視・赤外ハイブリッドレンズ</a></li>
+						<li><a href="takahata10.html">可視・赤外同軸カメラ</a></li>
+						<li><a href="takahata8.html">同軸画像による物体認識</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col green-box">
+				<div class="research-category">
+					<h2>Robotics: モビリティロボット</h2>
+					<ul>
+						<li><a href="takahata6.html">室内用椅子型ロボット</a></li>
+						<li><a href="takahata7.html">電動車椅子型ロボット</a></li>
+						<li><a href="#">階段昇降ロボット</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col beige-box">
+				<div class="research-category">
+					<h2>MEMS: 光MEMS, フィジカルセンサ</h2>
+					<ul>
+						<li><a href="takahata1.html">フォトニック結晶</a></li>
+						<li><a href="takahata5.html">シリコン3次元加工</a></li>
+						<li><a href="takahata2.html">赤外光学素子</a></li>
+						<li><a href="takahata4.html">触覚センサ</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col red-box">
+				<div class="research-category">
+					<h2>Vision: imaging systems and image processing</h2>
+					<ul>
+						<li><a href="takahata3.html">Visible-infrared hybrid lens</a></li>
+						<li><a href="takahata10.html">Compact coaxial camera</a></li>
+						<li><a href="takahata8.html">Coaxial image recognition</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col green-box">
+				<div class="research-category">
+					<h2>Robotics: mobile robots</h2>
+					<ul>
+						<li><a href="takahata6.html">Chair-type mobile robot</a></li>
+						<li><a href="takahata7.html">Wheelchair-type mobile robot</a></li>
+						<li><a href="#">Stair-climbing robot</a></li>
+					</ul>            
+				</div>
+			</div>
+			<div class="col beige-box">
+				<div class="research-category">
+					<h2>MEMS: optical MEMS, pysical sensors</h2>
+					<ul>
+						<li><a href="takahata1.html">Photonic crystal waveguides</a></li>
+						<li><a href="takahata5.html">Silicon 3D fabrication</a></li>
+						<li><a href="takahata2.html">Infrared optical elements</a></li>
+						<li><a href="takahata4.html">Tactile sensor packaging</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<h1>Mechanical tuning of photonic crystals</h1>
+
+		<h2>Photonic Crystal Attenuator with a Flexible Waveguide and Nano-Rods</h2>
+		<img class="abst-image" src="../img/takahata1_2.jpg" alt="" border="0">
+		<p class="abst">We have devised a mechanical tuning method for a two-dimensional photonic crystal (2D-PC) attenuator with a flexible waveguide and double-layered nano-rods. The 2D-PCs have a triangular lattice of air holes in a silicon slab waveguide. PCs act as optical attenuators because of their photonic band gaps. By inserting nano-rods (500 nm in diameter) into PC's air holes (650 nm in diameter), the refractive index in the holes changes. Therefore transmittance can be tuned by insertion depth. We fabricated the device by an alignment-free simple process with direct EB lithography and demonstrated 7 dB attenuation at 1500 nm of incident wavelength.</p>
+
+		<h3>Publications</h3>
+		<ol>
+			<li>Tomoyuki Takahata, Kiyoshi Matsumoto, Isao Shimoyama, &ldquo;A Wide Wavelength Range Optical Switch Using a Flexible Photonic Crystal Waveguide and Silicon Rods,&rdquo; <em>Journal of Micromechanics and Microengineering</em>, vol. 20, no. 7, article no. 075009, 2010. <strong>[<a href="http://dx.doi.org/10.1088/0960-1317/20/7/075009" target="_blank">Paper</a>]</strong></li>
+			<li>Tomoyuki Takahata, Kiyoshi Matsumoto, and Isao Shimoyama, &ldquo;Effect of Slab Deflection on a Mechano-Optic Modulator,&rdquo; <em>4th IEEE International Conference on Group IV Photonic</em>, Tokyo, Japan, 19-21 September, 2007. <strong>[<A HREF="http://dx.doi.org/10.1109/LEOS.2006.278884" TARGET="_blank">Proceedings</A>]</strong></li>
+			<li>Tomoyuki Takahata, Kiyoshi Matsumoto, and Isao Shimoyama, &ldquo;Mechanical Tuning of 2D Photonic Crystal with MEMS-based Electrostatic Actuator,&rdquo; <em>The 19th Annual Meeting of the IEEE Lasers &amp; Electro-Optics Society</em>, Montreal, Canada, 29 October-2 November, 2006. <strong>[<A HREF="http://dx.doi.org/10.1109/LEOS.2006.278884" TARGET="_blank">Proceedings</A>]</strong></li>
+			<li>Tomoyuki Takahata, Kazunori Hoshino, Kiyoshi Matsumoto, and Isao Shimoyama, &ldquo;Photonic Crystal Attenuator with A Flexible Waveguide and Nano-Rods,&rdquo; <em>19th IEEE International Conference on Micro Electro Mechanical Systems (MEMS '06)</em>, Istanbul, Turkey, January 22-26, 2006.  <strong>[<A HREF="http://dx.doi.org/10.1109/MEMSYS.2006.1627929" TARGET="_blank">Proceedings</A>]</strong></li>
+		</ol>
+
+		<h2>Photonic Crystal Attenuator with a Flexible Waveguide and Nano-Rods</h2>
+		<img class="abst-image" src="img/takahata1.jpg" alt="" border="0">
+		<p class="abst">The purpose of our research is to tune two-dimensional (2D) slab photonic crystal (PhC) reflectors by inserting an AFM cantilever into one of the air holes. The 2D slab PhCs have column-shaped air holes on the triangular lattice in silicon air-bridge waveguide. The PhCs act as optical reflectors because of their photonic band gap. First, we estimated the effect of the cantilever insertion on the transmittance of the PhC reflectors with the finite difference time domain (FDTD) method. Then, we fabricated PhC reflectors by electron beam (EB) lithography and DRIE. Finally, we inserted the cantilever into one of their air holes. The transmittance with the cantilever was about twice as large as the original trancemittance. The results proved that we could tune the transmittance of the PhC reflectors.</p>
+
+		<h3>Publications</h3>
+		<ol>
+			<li>Tomoyuki Takahata, Kazunori Hoshino, Kiyoshi Matsumoto, Isao Shimoyama, &ldquo;Transmittance Tuning of Photonic Crystal Reflectors using an AFM Cantilever,&rdquo; <em>Sensors and Actuators A: Physical</em>, vol. 128, no. 1, pp. 197-201, 2006. <strong>[<A HREF="http://dx.doi.org/10.1016/j.sna.2005.12.051" TARGET="_blank">Paper</A>]</strong></li>
+			<li>Tomoyuki Takahata, Kazunori Hoshino, Kiyoshi Matsumoto, Isao Shimoyama, &ldquo;Photonic Crystal Tuned by Cantilever,&rdquo; <em>18th IEEE International Conference on Micro Electro Mechanical Systems (MEMS '05)</em>, pp. 112-115, Miami, Fulorida, USA, January 30-February 3, 2005. <strong>[<A HREF="http://dx.doi.org/10.1109/MEMSYS.2005.1453880" TARGET="_blank">Proceedings</A>]</strong></li>
+		</ol>
+		
+		<!-- TemplateEndEditable -->
+	</main>
+	<footer>
+		<div class="row">
+			<p class="footer">WEB site of Mechanism Lab, Tokyo Denki University</p>
+			<p class="footer">&copy; 2023 <a href="https://t-tkht.github.io/">Tomoyuki Takahata</a></p>
+		</div>
+	</footer>
+</body>
+</html>
