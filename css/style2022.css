@@ -20,12 +20,12 @@ body {
 
 footer {
 	padding: 20px 30px;
-	background-color: aquamarine
+	/*background-color: aquamarine*/
 }
 
 h1 {
-	text-align: center;
-	padding: 8px;
+    text-align: center;
+    padding: 8px;
 }
 
 h2 {
@@ -65,22 +65,33 @@ p.abst:after {
 	clear: both;
 }
 
-footer.footer {
-	font-size: 12px;
-	margin-bottom: 20px;
+footer {
+	background-color: #004EA2;
+}
+
+p.footer {
+    color: lightgray;
+}
+
+p.footer a {
+	color: lightgray;
 }
 
 .language {
 	float: right;
 }
 
+.language:after {
+	clear: both;
+}
+
 .logo {
-	text-align: center;
-	font-size: 30px;
+    text-align: center;
+    font-size: 32px;
 }
 
 .logo a {
-	color: navy;
+	color: #004EA2;
 	text-decoration: none;
 }
 
@@ -89,17 +100,27 @@ footer.footer {
 }
 
 .nav ul li a {
-	text-decoration: none;
-	color: #2F322A;
-	text-align: center;
-	display: block;
-	padding: 8px;
+	font-size: 20px;
+    text-decoration: none;
+    color: #2F322A;
+    text-align: center;
+    display: block;
+    padding: 12px;
 }
 
 .top-news {
-	background-color: PaleTurquoise;
-	color: black;
-	padding: 20px 30px;
+    background-color: PaleTurquoise;
+    color: black;
+    margin-top: 0px;
+	padding-top: 10px;
+}
+
+.top-news ul {
+	padding: 20px 40px;
+}
+
+.top-news li {
+	padding: 5px;
 }
 
 .top-news ul li a {
@@ -109,6 +130,10 @@ footer.footer {
 
 .col {
 	width: 100%;
+}
+
+.row {
+	padding: 10px 0px;
 }
 
 .row:after {

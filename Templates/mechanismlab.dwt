@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- TemplateBeginEditable name="doctitle" --><title>Template of Mechanism Lab WEB site</title><!-- TemplateEndEditable -->
-  	<link rel="stylesheet" type="text/css" href="../style2022.css" />
+  	<link rel="stylesheet" type="text/css" href="../css/style2022.css" />
 	<!-- TemplateBeginEditable name="head" -->
 	<!-- TemplateEndEditable -->
 </head>
@@ -45,7 +45,7 @@
 		
 		<div class="row">
 			<div class="top-news">
-				<h2>News</h2>
+				<h1>News</h1>
 				<ul>
 					<li>日本経済新聞の記事について東京電機大学ウェブサイトののニュースで紹介されました。（2023年4月13日）<a href="https://www.dendai.ac.jp/news/20230413-01.html">先端機械工学科 髙畑准教授の研究が日本経済新聞に掲載</a></li>
 					<li>可視・赤外同軸カメラの研究が日本経済新聞に掲載されました。（2023年4月9日）<a href="https://www.nikkei.com/article/DGKKZO70029310Y3A400C2MY1000/">ロボット百景(6) 透明ガラスとの衝突回避</a></li>
@@ -148,10 +148,8 @@
 		<!-- TemplateEndEditable -->
 	</main>
 	<footer>
-		<div class="row">
-			<p class="footer">WEB site of Mechanism Lab, Tokyo Denki University</p>
-			<p class="footer">&copy; 2023 <a href="https://t-tkht.github.io/">Tomoyuki Takahata</a></p>
-		</div>
+		<p class="footer">WEB site of Mechanism Lab, Tokyo Denki University</p>
+		<p class="footer">&copy; 2023 <a href="https://t-tkht.github.io/">Tomoyuki Takahata</a></p>
 	</footer>
 </body>
 </html>

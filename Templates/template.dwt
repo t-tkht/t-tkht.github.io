@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- TemplateBeginEditable name="doctitle" --><title>Template of t-tkht's WEB site</title><!-- TemplateEndEditable -->
-  	<link rel="stylesheet" type="text/css" href="../style2022.css" />
+  	<link rel="stylesheet" type="text/css" href="../css/style2022.css" />
 	<!-- TemplateBeginEditable name="head" -->
 	<!-- TemplateEndEditable -->
 	<!-- TemplateParam name="jp" type="boolean" value="false" -->
@@ -16,15 +16,16 @@
 			<!-- TemplateBeginIf cond="jp" -->Jp | <!-- TemplateBeginEditable name="en_link" --><a href="../index.html">En</a><!-- TemplateEndEditable --><!-- TemplateEndIf -->
 			<!-- TemplateBeginIf cond="!jp" --><!-- TemplateBeginEditable name="jp_link" --><a href="jp/index.html">Jp</a><!-- TemplateEndEditable --> | En<!-- TemplateEndIf -->
 		</div>
+		<br />
 		<p class="logo">
 			<a href="index.html">Tomoyuki Takahata</a>
 		</p>
 		<nav class="nav">
 			<ul>
-				<!-- TemplateBeginIf cond="jp" --><li><a href="research.html">研究</a></li>
-				<li><a href="pub-index.html">発表</a></li>
+				<!-- TemplateBeginIf cond="jp" --><li><a href="research.html">研究テーマ</a></li>
+				<li><a href="pub-index.html">論文発表</a></li>
         		<li><a href="award.html">受賞</a></li>
-        		<li><a href="patent.html">特許</a></li><!-- TemplateEndIf -->
+        		<li><a href="patent.html">特許一覧</a></li><!-- TemplateEndIf -->
 				<!-- TemplateBeginIf cond="!jp" --><li><a href="research.html">Research</a></li>
 				<li><a href="pub-index.html">Publication</a></li>
         		<li><a href="award.html">Award</a></li>
@@ -54,7 +55,7 @@
 		
 		<div class="row">
 			<div class="top-news">
-				<h2>News</h2>
+				<h1>News</h1>
 				<ul>
 					<li>メディア掲載：搭乗型モビリティロボットと可視・赤外同軸カメラの研究が日経BPの<a href="https://project.nikkeibp.co.jp/onestep/feature/00011/062900002/">一歩先への道しるべ</a>で紹介されました。（2022年7月5日）</li>
 					<li>メディア掲載：2022国際ロボット展に展示した内容が日刊工業新聞に掲載されました。（2022年3月17日）<a href="https://newswitch.jp/p/31309">ニュースイッチの紹介記事</a></li>
@@ -154,10 +155,8 @@
 		<!-- TemplateEndEditable -->
 	</main>
 	<footer>
-		<div class="row">
-			<p class="footer">WEB site of <a href="https://t-tkht.github.io/">Tomoyuki Takahata</a></p>
-			<p class="footer">&copy; 2021 Tomoyuki Takahata</p>
-		</div>
+		<p class="footer">WEB site of Tomoyuki Takahata</p>
+		<p class="footer">&copy; 2021 Tomoyuki Takahata</p>
 	</footer>
 </body>
 </html>
