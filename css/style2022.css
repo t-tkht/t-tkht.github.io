@@ -184,6 +184,58 @@ p.footer a {
 	border-radius: 30px;
 }
 
+.accordion label {
+    position: relative;
+    display: block;
+	line-height: 1em;
+    background-color: #004EA2;
+    padding: 20px 20px 20px 60px;
+    margin: 10px 0px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+	font-size: 20px;
+}
+
+.accordion .research-content {
+	opacity: 0;
+	display: none;
+	background-color: #fff;
+	padding: 15px;
+}
+
+input[type=checkbox]:checked~ .research-content {
+	display: block;
+	opacity: 1;
+}
+
+input[type=checkbox] {
+	display: none;
+	position: relative;
+}
+
+.accordion label:before {
+    position: absolute;
+    left: 20px;
+    top: 0;
+    display: block;
+    /*width: 3em;
+    height: 3em;*/
+    line-height: 3;
+    text-align: center;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+}
+
+input[type=checkbox] + label:before {
+	content: "+";
+	font-size: 20px;
+}
+
+input[type=checkbox]:checked + label:before {
+	transform: rotate(135deg);
+}
 
 /* For tablets */
 @media (min-width: 768px){
