@@ -197,14 +197,14 @@ p.footer a {
 	font-size: 20px;
 }
 
-.accordion .research-content {
+.accordion .accordion-content {
 	opacity: 0;
 	display: none;
 	background-color: #fff;
 	padding: 15px;
 }
 
-input[type=checkbox]:checked~ .research-content {
+input[type=checkbox]:checked~ .accordion-content {
 	display: block;
 	opacity: 1;
 }
