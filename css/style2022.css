@@ -229,12 +229,12 @@ input[type=checkbox] {
 }
 
 input[type=checkbox] + label:before {
-	content: "+";
+	content: "＋";
 	font-size: 20px;
 }
 
 input[type=checkbox]:checked + label:before {
-	transform: rotate(135deg);
+	transform: rotate(45deg);
 }
 
 /* For tablets */
